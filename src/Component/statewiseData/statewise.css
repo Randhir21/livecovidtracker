@@ -51,3 +51,7 @@ th:hover::after{
     text-transform: uppercase;
     background-color: aqua;
 }
+footer{
+    text-align: center;
+    
+}
